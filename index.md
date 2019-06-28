@@ -45,3 +45,11 @@ In this project, we study the problem of supporting effective visualization/visu
 **System 3 - Interactive Visualization of Urban Areas of Interest**
 
 <img src="https://i2.wp.com/mingzhaoli.net/wp-content/uploads/2019/06/Screenshot-2019-06-27-15.50.58.png?w=2003">
+
+In this project, we study the problem of efficient and effective visualization of user-defined urban areas of interest. In Particular, we first describe a design space for visualizing urban AOIs based on points of interest. After extensively reviewing existing “footprint” methods, we propose a novel parameter-free footprint method, named AOI-shapes, to capture the boundary information of a user-defined urban AOI. Next, to allow interactive query refinements by the user, we propose two efficient and scalable algorithms that reuse existing visualization results to incrementally generate urban AOIs. Finally, we conduct extensive experiments with both synthetic and real-world datasets to demonstrate the effectiveness and efficiency of the proposed methods.
+
+*Publications*
+
+- Li, M., Bao, Z., Choudhury, F., & Sellis, T. (2019). Interactive visualization of urban areas of interest: a parameter-free and efficient footprint method. Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining – WSDM ’19, 782–785. ([pdf](http://mingzhaoli.net/wp-content/uploads/2018/11/aoishapes.pdf)) (CORE A*) 
+
+*Demo system*: http://aoishapes.com
